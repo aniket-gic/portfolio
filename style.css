@@ -1,0 +1,216 @@
+body{
+    background-image: url(Capture.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+    width:100%;
+}
+.name{
+    text-align: center;
+    font-size: x-large;
+    letter-spacing: 5px;
+    text-decoration: overline;
+    margin-top: -6px;
+   
+    
+}
+.tag{
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    
+}
+.background{
+    height:190px;
+    width: 100%;
+    background-color:rgb(176, 202, 202);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 80px;
+    box-shadow: 0px 10px 20px 15px white; 
+    
+
+   
+}
+ .profile-shanavaj{
+    height: 150px;
+    width: 150px;
+    border-radius: 200px;
+    position: fixed;
+    left: 2rem;
+    top: 1rem;
+    border: 10px solid white;
+
+
+}
+.profile-aniket{
+    height: 150px;
+    width: 150px;
+    border-radius: 200px;
+    border: 10px solid white;
+    position: fixed;
+    left: 1490px;
+    top: 20px;
+
+
+}
+.slogen{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 350px;
+    letter-spacing: 10px;
+    
+}
+.code{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin-top: -125px;
+    margin-left: 187px;
+}
+
+
+.profile-shanavaj2{
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+   margin-left: 400px;
+   margin-top: 70px;
+   border: 10px solid white;
+}
+.profile-aniket2{
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    margin-left: 200px;
+    border: 10px solid white;
+
+}
+.hello{
+    text-align: center;
+    color: rgb(64, 4, 3);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight:bolder;
+    font-style: italic;
+}
+.skills{
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(64, 4, 3);
+    font-style: italic;
+    margin-top: 60px;
+    margin-left: 350px;
+    
+    
+
+}
+.myself{
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    letter-spacing: 3px;
+    
+
+}
+
+.divider{
+    border-color: rgb(0, 0, 0);
+    border-style: dotted;
+    width: 30%;
+    border-width: 1rem 0 0 0;
+}
+.hobby{
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    letter-spacing: 3px;
+    margin-right: 650px;
+    margin-top: 110px;
+}
+.computer{
+    height: 200px;
+    width: 200px;
+    margin-left: 1300px;
+    margin-top: -170px;
+}
+.myhobby{
+    text-align: right;
+    color: rgb(64, 4, 3);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-style: italic;
+    margin-right: 180px;
+    margin-top: 100px;
+
+
+}
+.sper{
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    letter-spacing: 3px;
+    margin-left: 900px;
+    margin-top: 120px;
+}
+.ball{
+    height: 400px;
+    border-radius: 300px;
+    margin-top:-400px;
+}
+.poem{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    margin-top: 200px;
+    text-decoration:underline ;
+    text-decoration-style: dotted;
+    line-height: 40px;
+
+
+}
+.tag2{
+    border-color: rgb(0, 0, 0);
+    border-style: dotted;
+    width: 30%;
+    border-width: 1rem 0 0 0;
+    margin-left: 559px ;
+    margin-top: 90px;
+    }
+    .touch{
+        text-align: center;
+        font-size: xx-large;
+        font-family: 'Courier New', Courier, monospace;
+        color:rgba(1, 76, 23, 0.845) ;
+        margin-top: 100px;
+        font-weight: 200px;
+
+    }
+    .get{
+        text-align: center;
+        font-size: xx-large;
+        font-style: italic;
+        letter-spacing: 3px;
+        color: rgb(0, 0, 0);
+        font-weight: bolder;
+}
+button{
+    background-color: rgb(46, 46, 173);
+    color: white;
+    border-radius: 20px;
+    width: 220px;
+    height: 50px;
+    font-size: 20px;
+    box-shadow: 10px 2px 12px 4px rgb(87, 85, 85);
+    margin-left: 700px;
+    margin-top: 70px;
+}
